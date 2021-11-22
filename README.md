@@ -38,4 +38,4 @@ export default function Index() {
 
 ### 在 weapp 上的效果
 
-<img src="https://raw.githubusercontent.com/taroify/taro3314-scw/main/weapp-scw.gif" width="600" />
+<img src="https://raw.githubusercontent.com/taroify/taro3314-scw/main/weapp-scw.gif" width="800" />
